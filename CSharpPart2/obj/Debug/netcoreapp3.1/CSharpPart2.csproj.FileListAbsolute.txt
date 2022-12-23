@@ -1,0 +1,14 @@
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.exe
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.deps.json
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.runtimeconfig.json
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.runtimeconfig.dev.json
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.dll
+D:\CSharpSpace\CSharpPart2\CSharpPart2\bin\Debug\netcoreapp3.1\CSharpPart2.pdb
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.csproj.AssemblyReference.cache
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.AssemblyInfoInputs.cache
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.AssemblyInfo.cs
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.csproj.CoreCompileInputs.cache
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.dll
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.pdb
+D:\CSharpSpace\CSharpPart2\CSharpPart2\obj\Debug\netcoreapp3.1\CSharpPart2.genruntimeconfig.cache
